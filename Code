@@ -1,0 +1,30 @@
+class profile:
+    name = ("Rusty Ryan C. Tomlod")
+    age = 18
+    address = ("San Matias Pampanga")
+    color = ("violet")
+    
+    print(f"My name is {name} and im {age} years old, I live in {address} and my favorite color is {color}")
+
+
+name = str("Rusty")
+print (name)
+weight = int("52")
+print (weight)
+pounds = float("114.64")
+print (pounds)
+mode = bool("true")
+print (mode)
+
+class Comparator:
+    num1 = int(input("Enter your first number:"))
+    num2 = int(input("Enter your second number:"))
+    
+    if num1 > num2:
+        print (num1)
+        
+    elif num2 > num1:
+        print (num2)
+        
+    else:
+        print ("oh no, same number")
