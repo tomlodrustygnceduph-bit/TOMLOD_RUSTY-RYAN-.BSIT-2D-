@@ -1,0 +1,44 @@
+using System;
+
+public class HelloWorld
+{
+public static void Main(string[] args)
+{
+
+Console.WriteLine ("my name is Rusty Ryan Tomlod. im 19 years old.im studying bsit in guagua national college. always be humble ");
+
+}
+
+}
+
+
+code2
+using System:
+
+ public class HelloWorld
+{
+
+
+public static void Main(string[] args)
+
+{
+
+ string name "Rusty Ryan C. Tomlod":
+
+int age 19:
+
+int weigth 50:
+
+double mac0;
+
+bool True true:
+
+
+
+
+Console.WriteLine($"Hello, my name is (name). I'm (age) years old. My weigth is (weigth).(mac) (True).");
+
+ }
+
+ }
+
