@@ -338,7 +338,7 @@ MAIN MENU
             random_menu()
 
         elif choice == "0":
-            print("\nThank you for exploring the math and random modules. Goodbye!")
+            print("\nThank you for time exploring  the math and random modules. Goodbye!")
             break
 
         else:
